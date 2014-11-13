@@ -1,0 +1,6 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Chuancong\Desktop\KDD'10_datasets\datasets\voting\</StartWorkingDirectory>
+    <StartArguments>voting_u10@4.txt 0 rules.txt svm.txt</StartArguments>
+  </PropertyGroup>
+</Project>

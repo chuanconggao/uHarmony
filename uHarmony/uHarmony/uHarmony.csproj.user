@@ -1,0 +1,6 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Chuancong\Desktop\uHarmony\uHarmony\bin\Debug\</StartWorkingDirectory>
+    <StartArguments>car_U10@1.data 0 0.01 0.9 rules.txt</StartArguments>
+  </PropertyGroup>
+</Project>

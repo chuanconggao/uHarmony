@@ -1,0 +1,6 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\Chuancong\Desktop\uharmony_classify\uharmony_classify\bin\Debug</StartWorkingDirectory>
+    <StartArguments>test.data 0 rules.txt output.txt</StartArguments>
+  </PropertyGroup>
+</Project>
